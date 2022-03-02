@@ -37,7 +37,3 @@ outputs:
     doc: A text file that contains a single line that is the md5sum of the input file.
 
 baseCommand: [/bin/my_md5sum]
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
